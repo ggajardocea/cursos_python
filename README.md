@@ -40,7 +40,7 @@ Al finalizar el curso, el alumno verá aumentadas sus herramientas para el desar
 ## Bibliografía
 + G. James, D. Witten, T. Hastie, R. Tibshirani. **An Introduction to Statistical Learning**. *Springer.*
 + A. Géron. **Hands On Machine Learning with Scikit Learn and TensorFlow**. *O’Reilly*
-+ I. Asimov. **Trilogía de la Fundación** 
++ I. Asimov. **Trilogía de la Fundación**. *Debolsillo*
 
 
 ## Enlaces útiles
